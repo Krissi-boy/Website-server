@@ -1,0 +1,19 @@
+h2 {
+    background-color: cornflowerblue;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th {
+    background-color: 8cbe05;
+    border: 1px solid #000000;
+    padding: 5px;
+}
+
+td {
+    background-color: #e7f1cc;
+    border: 1px solid #000000;
+    padding: 5px;
+}
